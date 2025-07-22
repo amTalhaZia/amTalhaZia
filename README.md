@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Talha Zia 👋</h1>
 
 <p align="center">
-  <b>Laravel Backend Developer | REST APIs | MySQL | Blade | jQuery</b><br>
-  🌱 Currently exploring advanced Laravel features & backend architecture
+  <b>Backend Developer (Laravel) | SQL | jQuery | Blade | React</b><br>
+  🌱 Currently improving my frontend and backend skills with real-world practices.
 </p>
 
 <p align="center">
@@ -13,56 +13,61 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** focused on building secure and scalable web applications using **Laravel**.
+I'm a passionate **Backend Developer** with solid experience in:
+- **Laravel** ⚙️
+- **Blade Templating Engine** 🧩
+- **MySQL / SQL Queries** 🛢️
+- **jQuery** 🔧
 
-With a strong foundation in **PHP**, **MySQL**, and **Laravel’s MVC architecture**, I build backend systems that are robust, well-structured, and follow industry standards.
+Also have working knowledge of frontend technologies:
+- **React.js** ⚛️
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **JavaScript (ES6+)** 🚀
 
-Although my expertise is backend, I also have working knowledge of frontend tools to build full-stack solutions when needed.
+I'm currently focused on:
+- Building **CMS-style dashboards** using Laravel Blade
+- Practicing **CRUD operations**, pagination, relationships, and query optimization
+- Writing clean and maintainable backend code
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠️ My Tech Stack
 
-### 🔧 Backend Development
+### Backend Focused:
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blade-E34F26?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel%20Sanctum-000000?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
-### 🌐 Frontend Integration (Basic/Supportive)
+### Frontend Knowledge:
 <div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
 
-## 📘 Additional Knowledge & Practices
+## 📘 Practices & Learning Goals
 
-- ✅ Laravel Authentication (User/Admin Roles)
-- ✅ Laravel Sanctum Token-based APIs
-- ✅ Eloquent ORM with Relationships (One-to-Many, Many-to-Many)
-- ✅ AJAX with jQuery & Laravel Integration
-- ✅ Blade Components & Dynamic UI
-- ✅ Database Normalization (1NF → 2NF)
-- ✅ Laravel Seeder & Factory for test data
-- ✅ Pagination, Search, and Filtering using Controller logic
-- ✅ Clean Code with MVC Structure & Best Practices
+- Creating full **CRUD systems** using Laravel Blade & Eloquent
+- Writing optimized **Eloquent queries** (eager loading, chunking)
+- Using **Laravel Controllers**, **Models**, and **Route Resources**
+- **Pagination**, **Validation**, **Form Handling**, and **AJAX Requests**
+- Adding frontend interactivity using **jQuery & vanilla JS**
+- Building with **professional UI design** using Bootstrap & custom CSS
 
 ---
 
-## 📫 Contact Me
+## 📫 How to Reach Me
 
-- 📧 **Email**: [amtalha.zia@gmail.com](mailto:amtalha.zia@gmail.com)  
-- 🔗 **LinkedIn**: [Talha Zia's LinkedIn](https://www.linkedin.com/in/talha-zia-268b53287/?originalSubdomain=pk)  
-- 💻 **GitHub**: [github.com/talhazia](https://github.com/talhazia)
-
----
+- **Email**: [amtalha.zia@gmail.com](mailto:amtalha.zia@gmail.com)
+- **LinkedIn**: [Talha Zia on LinkedIn](https://www.linkedin.com/in/talha-zia-268b53287)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26gsspfU8GZWuJfTO/giphy.gif" alt="Let's Connect!" width="500"/>
@@ -70,4 +75,4 @@ Although my expertise is backend, I also have working knowledge of frontend tool
 
 ---
 
-<h3 align="center">Laravel is My Backend Weapon — Let’s Build Something Powerful ⚙️</h3>
+<h3 align="center">Dedicated to learning, practicing & building Laravel-based web systems 🚀</h3>
