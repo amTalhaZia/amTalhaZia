@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Talha Zia 👋</h1>
 
 <p align="center">
-  <b>Backend Developer (Laravel) with Frontend Skills (React, HTML, CSS)</b><br>
-  🌱 Currently improving full stack development with focus on <b>Laravel</b> & <b>React.js</b>
+  <b>Backend Developer (Laravel) | Frontend Knowledge (React, JS, HTML, CSS)</b><br>
+  🌱 Currently enhancing backend & full-stack skills
 </p>
 
 <p align="center">
@@ -13,51 +13,51 @@
 
 ## 🚀 About Me
 
-I am a dedicated **Backend Developer** focused on building robust Laravel applications and APIs.
+I'm a passionate **Backend Developer** specializing in **Laravel**, with a strong foundation in frontend technologies like **React.js**, **JavaScript**, **HTML**, and **CSS**.
 
-I also have strong experience in:
-- **React.js** ⚛️ (for dynamic UIs)
-- **HTML5** 🌐
-- **CSS3** 🎨
+💻 I build robust REST APIs, manage SQL databases, write clean Eloquent queries, and follow MVC principles.
+
+💡 I also enjoy crafting responsive UI using React.
 
 ---
 
-## 🛠️ My Tech Stack
+## 💼 Skills & Tech Stack
 
-### 🔧 Backend Technologies:
+### 🧠 Backend:
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blade Template-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
 
-### 🎨 Frontend Technologies:
+### 🎨 Frontend (Knowledgeable):
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
 
-## 🧪 Additional Practice Areas
+## 📚 Practices & Learning
 
-- RESTful APIs with Laravel
-- Authentication (Laravel Sanctum)
-- Dynamic UIs with React
-- Working with SQL Queries
-- Blade Templating Engine
-- Admin Panels & Dashboards
-- jQuery Integration
+- ✅ Laravel CRUD (with validation, pagination, Eloquent, relationships)
+- ✅ Authentication with Sanctum
+- ✅ CMS-style dashboards using Blade and jQuery
+- ✅ React components & props-based UI
+- ✅ MySQL joins, subqueries, performance optimizations
+
+> 🧠 **Currently exploring advanced Laravel features, SQL optimization, and full-stack development.**
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email**: [amtalha.zia@gmail.com](mailto:amtalha.zia@gmail.com)
-- **LinkedIn**: [Talha Zia's LinkedIn](https://www.linkedin.com/in/talha-zia-268b53287/?originalSubdomain=pk)
+- **Email**: [amtalha.zia@gmail.com](mailto:amtalha.zia@gmail.com)  
+- **LinkedIn**: [Talha Zia](https://www.linkedin.com/in/talha-zia-268b53287)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26gsspfU8GZWuJfTO/giphy.gif" alt="Let's Connect!" width="500"/>
@@ -65,4 +65,4 @@ I also have strong experience in:
 
 ---
 
-<h3 align="center">Let's Build Something Amazing Together! 💻</h3>
+<h3 align="center">Let's Build Powerful Web Solutions Together! 🚀</h3>
