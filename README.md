@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Talha Zia 👋</h1>
 
 <p align="center">
-  <b>Backend Developer (Laravel) | Frontend Knowledge (React, JS, HTML, CSS)</b><br>
+  <b>Backend Developer (Laravel) | Frontend  (React, JS, HTML, CSS)</b><br>
   🌱 Currently enhancing backend & full-stack skills
 </p>
 
