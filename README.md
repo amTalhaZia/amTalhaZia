@@ -57,7 +57,6 @@ I'm a passionate **Backend Developer** specializing in **Laravel**, with a stron
 ## 📫 How to Reach Me
 
 - **Email**: [amtalha.zia@gmail.com](mailto:amtalha.zia@gmail.com)  
-- **LinkedIn**: [Talha Zia](https://www.linkedin.com/in/talha-zia-268b53287)
 
 <p align="center">
   <img src="https://media.giphy.com/media/26gsspfU8GZWuJfTO/giphy.gif" alt="Let's Connect!" width="500"/>
